@@ -1,0 +1,15 @@
+/home/saint/Desktop/ObjectMethods/bin/Debug/net6.0/ObjectMethods
+/home/saint/Desktop/ObjectMethods/bin/Debug/net6.0/ObjectMethods.deps.json
+/home/saint/Desktop/ObjectMethods/bin/Debug/net6.0/ObjectMethods.runtimeconfig.json
+/home/saint/Desktop/ObjectMethods/bin/Debug/net6.0/ObjectMethods.dll
+/home/saint/Desktop/ObjectMethods/bin/Debug/net6.0/ObjectMethods.pdb
+/home/saint/Desktop/ObjectMethods/obj/Debug/net6.0/ObjectMethods.csproj.AssemblyReference.cache
+/home/saint/Desktop/ObjectMethods/obj/Debug/net6.0/ObjectMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/ObjectMethods/obj/Debug/net6.0/ObjectMethods.AssemblyInfoInputs.cache
+/home/saint/Desktop/ObjectMethods/obj/Debug/net6.0/ObjectMethods.AssemblyInfo.cs
+/home/saint/Desktop/ObjectMethods/obj/Debug/net6.0/ObjectMethods.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/ObjectMethods/obj/Debug/net6.0/ObjectMethods.dll
+/home/saint/Desktop/ObjectMethods/obj/Debug/net6.0/refint/ObjectMethods.dll
+/home/saint/Desktop/ObjectMethods/obj/Debug/net6.0/ObjectMethods.pdb
+/home/saint/Desktop/ObjectMethods/obj/Debug/net6.0/ObjectMethods.genruntimeconfig.cache
+/home/saint/Desktop/ObjectMethods/obj/Debug/net6.0/ref/ObjectMethods.dll
